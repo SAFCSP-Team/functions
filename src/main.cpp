@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    /*Add your code here*/
+    /*Call the functions here*/
     return 0;
 }
