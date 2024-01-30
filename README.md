@@ -2,7 +2,7 @@
 
 ### Objective
 
-In this project, our main goal is to understand how to use a functions C++.
+In this project, our main goal is to understand how to use functions in C++.
 
 ### Problem
 
@@ -17,7 +17,7 @@ Develop a program that defines three functions to add numbers.
 #include <iostream>
 
 int main() {
-    /*Add your code here*/
+    /*Call the functions here*/
     return 0;
 }
 
